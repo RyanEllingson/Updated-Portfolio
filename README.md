@@ -9,4 +9,4 @@ This project is a website which displays some information about me, as well as l
 
 The project is comprised of 3 separate files, and the navbar at the top of the screen allows for navigation among the different files.
 
-![Screenshot of portfolio]()
+![Screenshot of portfolio](https://github.com/RyanEllingson/Updated-Portfolio/blob/master/assets/images/portfolio-screenshot.JPG)
